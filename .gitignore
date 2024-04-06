@@ -1,0 +1,11 @@
+.env
+.flaskenv
+__pycache__
+data/*
+!data/*.csv
+flask_session
+copy_population*
+import.csv
+test*
+!test.py
+*-cache
